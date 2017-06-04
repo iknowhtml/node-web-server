@@ -5,7 +5,10 @@
   "engines": {
     "node": ">=6.0.0"
   },
-  "main": "app.js",
+  "main": "server.js",
+  "scripts":{
+    "start": "node server"
+  },
   "repository": "https://github.com/iknowhtml/node-template.git",
   "author": "Aki Gao",
   "license": "ISC",
