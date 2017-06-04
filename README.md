@@ -10,4 +10,4 @@ Checkout this repo, install dependencies, then run the following commands in the
 > yarn install
 > yarn start
 ```
-Then go to https://localhost:8080 in your browser.
+Then go to <localhost:8080> in your browser.
